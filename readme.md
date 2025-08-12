@@ -21,6 +21,13 @@ Livadhet (2)
 
 Prelez I Jerlive
 
+
+Gjendja e vjetër			Gjendja e re		
+Nr.Parc	Siperfaqia		Nr.Parc	Siperfaqia	
+    00131-0	5174	m²	    00131-1	2587	m²
+			                00131-2	2587	m²
+Gjithsej	5174	m²	Gjithsej	5174	m²
+
 ```
 
 # kerkesa
